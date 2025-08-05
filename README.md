@@ -2,6 +2,7 @@
 > 📝 A smart and modern note-taking app built with Kotlin, MVVM architecture, Hilt, and Retrofit.  
 > This project demonstrates clean architecture, reusable components, and best Android development practices for scalable apps.
 
+
 ## 🚀 Features
 - 🔐 **User Authentication** – Register and log in securely  
 - 📝 **Create, Edit, and Delete Notes** – Manage your notes effortlessly  
@@ -9,6 +10,7 @@
 - 🔑 **Change Password** – Secure password update functionality  
 - 🎨 **Smooth and Modern UI** – XML layouts with ViewBinding for a responsive experience  
 - ☁️ **API Integration** – Sync notes with a backend server using Retrofit  
+
 
 ## 🛠 Tech Stack
 - **Language:** Kotlin  
@@ -18,6 +20,7 @@
 - **Networking:** Retrofit  
 - **Async Tasks:** Coroutines & LiveData  
 
+
 ## 📱 Screenshots
 | Home Screen | Create Note | Edit Note |
 |-------------|-------------|-----------|
@@ -25,6 +28,7 @@
 
 ## 📦 Download APK
 👉 [**Click here to download**](add-your-apk-link-here)
+
 
 ## 🧑💻 Author
 **Bilal Khan**  
