@@ -3,7 +3,6 @@
 > 📝 A smart and modern note-taking app built with Kotlin, MVVM architecture, Hilt, and Retrofit.  
 > This project demonstrates clean architecture, reusable components, and best Android development practices for scalable apps.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@
 - 🎨 **Smooth and Modern UI** – XML layouts with ViewBinding for a responsive experience  
 - ☁️ **API Integration** – Sync notes with a backend server using Retrofit  
 
----
 
 ## 🛠 Tech Stack
 
@@ -25,7 +23,6 @@
 - **Networking:** Retrofit  
 - **Async Tasks:** Coroutines & LiveData  
 
----
 
 ## 📱 Screenshots
 
@@ -33,13 +30,11 @@
 |-------------|-------------|-----------|
 | ![Home](add-image-url-here) | ![Create Note](add-image-url-here) | ![Edit Note](add-image-url-here) |
 
----
 
 ## 📦 Download APK
 
 👉 [**Click here to download**](add-your-apk-link-here)
 
----
 
 ## 🧑💻 Author
 
