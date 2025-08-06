@@ -36,7 +36,7 @@
 
 <br>
 
-## 🧑💻 Author
+## 🧑 Author
 **Bilal Khan**  
 - [LinkedIn](add-link-here)  
 - [Portfolio](add-link-here)
