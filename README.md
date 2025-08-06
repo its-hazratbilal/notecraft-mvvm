@@ -11,6 +11,7 @@
 - 🎨 **Smooth and Modern UI** – XML layouts with ViewBinding for a responsive experience  
 - ☁️ **API Integration** – Sync notes with a backend server using Retrofit  
 
+<br><br>
 
 ## 🛠 Tech Stack
 - **Language:** Kotlin  
