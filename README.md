@@ -37,6 +37,6 @@
 <br>
 
 ## 🧑 Author
-**Bilal Khan**  
+**Hazrat Bilal**  
 - [LinkedIn](add-link-here)  
 - [Portfolio](add-link-here)
