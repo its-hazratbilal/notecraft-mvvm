@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="buttonColor">#660066</color>
+    <color name="buttonStrokeColor">#751975</color>
+    <color name="defaultColor">#660066</color>
+    <color name="loadingStartColor">#934c93</color>
+    <color name="loadingEndColor">#660066</color>
+    <color name="editTextBorder">#8D8D8D</color>
+    <color name="border">#bebebe</color>
+    <color name="blackTextColor">#2f2f2f</color>
+    <color name="darkGrayTextColor">#5e5e5e</color>
+    <color name="defaultTextColor">#434343</color>
+    <color name="blackColor">#000000</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="defaultBackground">#fafafa</color>
+    <color name="toolbarBorder">#e7e7e7</color>
+    <color name="secondaryTextColor">#999999</color>
+    <color name="itemBackground">#f6f6f6</color>
+    <color name="itemBorder">#dddddd</color>
+    <color name="disabledBackground">#EEEEEE</color>
+    <color name="dividerColor">#dcdee3</color>
+    <color name="drawerTextOnclick">#050505</color>
+    <color name="drawerItemOnclick">#e0e0e0</color>
+
+</resources>

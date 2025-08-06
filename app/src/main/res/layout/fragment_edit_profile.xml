@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:scrollbars="none"
+    android:background="@color/defaultBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_20sdp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Full Name"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:textColor="@color/darkGrayTextColor"
+            android:textSize="@dimen/_13ssp"/>
+
+        <EditText
+            android:id="@+id/fullName"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_38sdp"
+            android:background="@drawable/edit_text_border"
+            android:inputType="text"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:gravity="center_vertical"
+            android:hint="Full Name"
+            android:paddingHorizontal="@dimen/_12sdp"
+            android:selectAllOnFocus="true"
+            android:textColor="@color/blackTextColor"
+            android:textSize="@dimen/_12ssp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gender"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:textColor="@color/darkGrayTextColor"
+            android:textSize="@dimen/_13ssp"/>
+
+        <Spinner
+            android:id="@+id/gender"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_38sdp"
+            android:background="@drawable/edit_text_border"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:inputType="textPassword"
+            android:paddingStart="@dimen/_6sdp"
+            android:paddingEnd="@dimen/_6sdp"
+            android:textColor="@color/blackTextColor"
+            android:textSize="@dimen/_12ssp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/updateProfile"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_38sdp"
+            android:text="Update Profile"
+            app:cornerRadius="@dimen/_4sdp"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            app:strokeColor="@color/buttonStrokeColor"
+            android:backgroundTint="@color/buttonColor"
+            app:strokeWidth="@dimen/_1sdp"
+            android:textSize="@dimen/_12ssp"
+            android:textAllCaps="false"
+            android:textColor="@color/whiteColor"
+            android:layout_marginTop="@dimen/_26sdp"
+            style="@style/Theme.MaterialButton" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_24sdp" />
+
+    </LinearLayout>
+</ScrollView>
+
