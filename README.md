@@ -38,5 +38,5 @@
 
 ## 🧑 Author
 **Hazrat Bilal**  
-- [LinkedIn](add-link-here)  
-- [Portfolio](add-link-here)
+- [**LinkedIn**](https://linkedin.com/in/hazrat-bilal-24672817a/)  
+- [**Portfolio**](https://hazratbilal.com/)
