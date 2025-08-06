@@ -10,7 +10,7 @@
 - 🔄 **Update Profile** – Edit user details anytime  
 - 🔑 **Change Password** – Secure password update functionality  
 - 🎨 **Smooth and Modern UI** – XML layouts with **ViewBinding** for a responsive experience  
-- ☁️ **API Integration** – Sync notes with a backend server using **Retrofit** 
+- ☁️ **API Integration** – Sync notes with a **backend server using Retrofit** 
 
 <br>
 
