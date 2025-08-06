@@ -25,9 +25,9 @@
 <br>
 
 ## 📱 Screenshots
-| Home Screen | Create Note | Edit Note |
-|-------------|-------------|-----------|
-| ![Home](add-image-url-here) | ![Create Note](add-image-url-here) | ![Edit Note](add-image-url-here) |
+| Login | View Notes | Create Note | Exit |
+|-------|------------|-------------|------|
+| ![Login](screenshots/login.jpg) | ![View Notes](screenshots/view-notes.jpg) | ![Create Note](screenshots/create-note.jpg) | ![Exit](screenshots/exit.jpg) |
 
 <br>
 
