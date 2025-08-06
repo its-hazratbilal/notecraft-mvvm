@@ -32,7 +32,7 @@
 <br>
 
 ## 📦 Download APK
-👉 [**Click here to download**](add-your-apk-link-here)
+👉 [**Click here to download**](https://github.com/its-hazratbilal/notecraft-mvvm/releases/download/v1.0.1/NoteCraft-v1.0.1.apk)
 
 <br>
 
