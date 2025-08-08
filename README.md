@@ -1,5 +1,5 @@
 # 📒 NoteCraft (MVVM)
-> 📝 A smart and modern note-taking app built with **Kotlin, MVVM architecture, Hilt, and Retrofit**.  
+> 📝 A smart and modern note-taking app built with **Kotlin, MVVM architecture, Hilt, Retrofit, and XML-based UI**.  
 > This project demonstrates **clean architecture, reusable components, and best Android development practices** for scalable apps.  
 
 <br>
